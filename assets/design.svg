@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="184px" viewBox="0 0 184 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-346.000000, -826.000000)">
+            <g id="Group-7" transform="translate(346.000000, 826.000000)">
+                <circle id="Oval-9-Copy-2" fill="#FFFFFF" cx="92" cy="92" r="92"></circle>
+                <g id="Group-8" transform="translate(39.000000, 39.000000)">
+                    <g id="Group-4" transform="translate(53.500000, 53.500000) rotate(-45.000000) translate(-53.500000, -53.500000) translate(44.000000, -12.000000)">
+                        <g id="Group-3">
+                            <ellipse id="Oval-9" fill="#FFB7C0" cx="9.5" cy="12" rx="9.5" ry="12"></ellipse>
+                            <rect id="Rectangle-6" fill="#FEEB5D" x="1.13686838e-13" y="14" width="19" height="95"></rect>
+                            <polygon id="Triangle" fill="#D8D8D8" transform="translate(9.449219, 119.500000) rotate(180.000000) translate(-9.449219, -119.500000) " points="10.0332031 109 18.8984375 130 -7.95807864e-13 130"></polygon>
+                        </g>
+                        <polygon id="Triangle-2" fill="#636363" points="9.0579834 130.251465 5.51318359 122 12.6027832 122"></polygon>
+                    </g>
+                    <g id="Group-5" transform="translate(53.500000, 54.500000) rotate(-315.000000) translate(-53.500000, -54.500000) translate(45.000000, -5.000000)">
+                        <path d="M14.9553701,105.691497 C15.7374926,104.446379 16.1902478,102.973579 16.1902478,101.395291 L16.1902478,8.09559086 C16.1902478,3.62734925 12.5659373,-4.26325641e-14 8.09512388,-4.26325641e-14 C3.63340762,-4.26325641e-14 -2.84217094e-14,3.62451949 -2.84217094e-14,8.09559086 L-2.84217094e-14,101.395291 C-2.84217094e-14,102.228988 0.126173524,103.033411 0.360477254,103.79046 L0.336181641,103.789795 L0.408894768,103.941596 C0.625195777,104.594509 0.922392923,105.210665 1.28861236,105.778153 L5.49493155,114.559549 C6.92613593,117.547427 9.2499022,117.55125 10.6851231,114.567907 L14.9553701,105.691497 Z" id="Rectangle-69" fill="#212121"></path>
+                        <rect id="Rectangle-7" fill="#212121" x="7" y="115" width="2" height="4" rx="1"></rect>
+                        <path d="M12,70 L12,60.5020985 C12,58.5683379 10.4329966,57 8.5,57 C6.57093664,57 5,58.5679429 5,60.5020985 L5,70 L12,70 Z M12,72 L12,80.4979015 C12,82.4320571 10.4290634,84 8.5,84 C6.56700338,84 5,82.4316621 5,80.4979015 L5,72 L12,72 Z" id="Combined-Shape" fill="#636363"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

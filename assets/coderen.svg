@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="184px" viewBox="0 0 184 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="116" height="92" rx="8"></rect>
+        <rect id="path-2" x="31" y="5" width="80" height="6" rx="3"></rect>
+        <rect id="path-3" x="4" y="16" width="107" height="71" rx="4"></rect>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-912.000000, -826.000000)">
+            <g id="Group-10" transform="translate(912.000000, 826.000000)">
+                <circle id="Oval-9-Copy-2" fill="#FFFFFF" cx="92" cy="92" r="92"></circle>
+                <g id="Group-6" transform="translate(34.000000, 46.000000)">
+                    <g id="Rectangle">
+                        <use fill="#EAEAEA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="115" height="91" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle-4">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#979797" stroke-width="1" x="31.5" y="5.5" width="79" height="5" rx="2.5"></rect>
+                    </g>
+                    <circle id="Oval-10" stroke="#979797" fill="#D8D8D8" cx="8" cy="8" r="3"></circle>
+                    <circle id="Oval-10" stroke="#979797" fill="#D8D8D8" cx="16" cy="8" r="3"></circle>
+                    <circle id="Oval-10" stroke="#979797" fill="#D8D8D8" cx="24" cy="8" r="3"></circle>
+                    <g id="Rectangle-10">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#979797" stroke-width="1" x="4.5" y="16.5" width="106" height="70" rx="4"></rect>
+                    </g>
+                    <text id="&lt;/&gt;" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" fill="#4A4A4A">
+                        <tspan x="60" y="42">&lt;/&gt;</tspan>
+                    </text>
+                    <g id="software" transform="translate(8.000000, 51.000000)">
+                        <g id="Page-1">
+                            <polygon id="Fill-1" fill="#E65127" points="0 -2.0050952e-05 0 21.0769391 12.1366887 29.575134 23.820333 21.0534795 23.820333 -2.0050952e-05"></polygon>
+                            <polygon id="Fill-2" fill="#F1672E" points="2.77777778 2.60869565 21.7882359 2.60869565 21.7882359 19.3087325 12.4628045 26.0683094 2.77777778 19.3273799"></polygon>
+                            <text id="HTML" font-family="Silom" font-size="8" font-weight="bold" fill="#F9F9F9">
+                                <tspan x="1.77777778" y="15.1304348">HTML </tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(54.000000, 0.000000)">
+                            <g id="Page-1">
+                                <polygon id="Fill-1" fill="#E7A328" points="0 -2.0050952e-05 0 21.0769391 12.1366887 29.575134 23.820333 21.0534795 23.820333 -2.0050952e-05"></polygon>
+                                <polygon id="Fill-2" fill="#F2BF26" points="2.29041664 2.80713327 21.3008747 2.80713327 21.3008747 19.5071701 11.9754434 26.266747 2.29041664 19.5258175"></polygon>
+                                <text id="JS" font-family="Silom" font-size="10" font-weight="bold" fill="#F9F9F9">
+                                    <tspan x="6.33333333" y="15.1304348">JS</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-2" transform="translate(27.000000, 0.000000)">
+                            <g id="Page-1">
+                                <polygon id="Fill-1" fill="#0C73B8" points="0 -2.0050952e-05 0 21.0769391 12.1366887 29.575134 23.820333 21.0534795 23.820333 -2.0050952e-05"></polygon>
+                                <polygon id="Fill-2" fill="#30A9DD" points="2.29041664 2.80713327 21.3008747 2.80713327 21.3008747 19.5071701 11.9754434 26.266747 2.29041664 19.5258175"></polygon>
+                                <text id="CSS" font-family="Silom" font-size="10" font-weight="bold" fill="#F9F9F9">
+                                    <tspan x="2.55555556" y="15.1304348">CSS</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
