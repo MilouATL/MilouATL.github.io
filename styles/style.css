@@ -1052,10 +1052,6 @@ blockquote {
 /* ======================== */
 @media only screen and (min-width: 769px) {
 
-  .begin-title {
-    margin-left: 100px;
-  }
-
   footer h6:after {
     margin-left: -50px;
   }
@@ -1117,6 +1113,10 @@ blockquote {
 /* LARGE
 /* ======================== */
 @media only screen and (min-width: 992px) {
+  .begin-title {
+    margin-left: 100px;
+  }
+  
   footer h6 {
     display: inline-block;
   }
