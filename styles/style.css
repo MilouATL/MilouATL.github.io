@@ -935,6 +935,15 @@ blockquote, h6 {
     height: auto;
   }
   */
+
+
+  #scene-2 #milou {
+    bottom: 80px;
+  }
+
+  #scene-2 #milou {
+    bottom: 92px;
+  }
 }
 
 /* MEDIUM SMALL
@@ -1069,14 +1078,20 @@ blockquote, h6 {
     height: 280px;
   }
 
+  #scene-2 #milou {
+    bottom: 20px;
+  }
+
   #table2 {
     height: 100%;
   }
 
   #chef-hat {
     width: 110px;
-    left: 41.4%;
-    top: 2px;
+    /* left: 41.4%; */
+    /* top: 2px; */
+    left: -0.6%;
+    top: -24px;
   }
 
 
