@@ -281,7 +281,7 @@ footer img {
 
 .content h3 {
   font-family: 'Pacifico';
-  font-size: 20px;
+  font-size: 28px;
   color: #444;
   padding: 20px;
   text-align: center;
@@ -314,8 +314,8 @@ footer img {
   animation-duration: 1.3s;
   animation-fill-mode: forwards;
   animation-timing-function: ease-out;
-  background-image: url('../assets/milou.png');
-  background-image: url('../assets/milou.png');
+  background-image: url('../assets/milou_4.svg');
+  background-image: url('../assets/milou_4.svg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom center;
@@ -324,7 +324,7 @@ footer img {
   height: 100%;
   bottom: 10px;
   max-height: 275px;
-  transform: translateY(-100%);
+  transform: translateX(-100%);
 }
 
 #vinyl {
@@ -419,9 +419,12 @@ footer img {
   background-position: bottom center;
   height: 180px;
   width: 85px;
-  position: absolute;
+  position: relative;
+  /* position: absolute;
   left: 37.5%;
-  top: -82px;
+  top: -82px; */
+  margin: 0 auto; 
+  display: block;
   z-index: 5;
   transform: translateY(-500%);
   animation-name: bounceInDown;
@@ -433,6 +436,15 @@ footer img {
   /* End of temp */
   animation-fill-mode: forwards;
   animation-timing-function: cubic-bezier(.31, -0.17, .72, 1.18);
+}
+
+#scene-2 #milou {
+  height: 350px;
+  position: relative; 
+  margin: -30px auto 0; 
+  left: 8px; 
+  transform: translateX(-100%);
+
 }
 
 @keyframes bounceInDown {
@@ -518,7 +530,7 @@ footer img {
     opacity: 0
   }
   100% {
-    opacity: 1)
+    opacity: 1;
   }
 }
 
@@ -580,11 +592,12 @@ footer img {
 ||													 ||
 \* ========================= */
 
-blockquote {
+blockquote, h6 {
   font-family: 'Pacifico';
   font-style: italic;
   max-width: 500px;
-  line-height: 1.3;
+  line-height: 1.5;
+  letter-spacing: 0.1px;
   font-size: 18px;
 }
 
@@ -604,6 +617,7 @@ blockquote {
   font-weight: 300;
   line-height: 1.4;
   padding: 10px 0;
+  padding: 20px 20px;
 }
 
 .content-about p {
@@ -818,6 +832,29 @@ blockquote {
     display: block;
   }
 
+  .circle-image { 
+    height: 35%;
+    width: 35%;
+  }
+
+  .content-text {
+    padding: 20px 20px;
+  }
+
+  footer h6::after {
+    content: '';
+    display: none;
+  }
+
+  .contact-info p{
+    display: none;
+  }
+
+  .content-about img { 
+    height: 70%;
+    width: 80%;
+
+  }
   /*
   header {
     padding: 12px 0 0 0;
