@@ -1140,13 +1140,17 @@ blockquote, h6 {
     height: 300px;
   }
 
+  #scene-2 #milou {
+    bottom: 50px;
+  }
+
   #chef-hat {
     width: 125px;
     left: 43.4%;
     top: -40px;
   }
 
-  /* Setting 2
+  /* Setting 3
   /* ======================== */
   #table3 {
     margin-top: 0;
@@ -1180,6 +1184,8 @@ blockquote, h6 {
   }
 
   #chef-hat {
-    left: 45%;
+    width: 125px;
+    left: -0.4%;
+    top: -12px;
   }
 }
