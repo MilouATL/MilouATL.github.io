@@ -717,15 +717,19 @@ blockquote, h6 {
 }
 
 #case-1 {
-  background-image: url('../assets/tavenu.png');
+  background-image: url('../assets/onszoetermeer.png');
 }
 
 #case-2 {
-  background-image: url('../assets/robotica.png');
+  background-image: url('../assets/imperium.png');
 }
 
 #case-3 {
-  background-image: url('../assets/imperium.png');
+  background-image: url('../assets/tavenu.png');
+}
+
+#case-4{
+  background-image: url('../assets/robotica.png');
 }
 
 .header {
