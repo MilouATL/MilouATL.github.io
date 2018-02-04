@@ -599,6 +599,7 @@ blockquote, h6 {
   line-height: 1.5;
   letter-spacing: 0.1px;
   font-size: 18px;
+  padding: 20px; 
 }
 
 .introduction-about {
@@ -720,6 +721,12 @@ blockquote, h6 {
   background-image: url('../assets/onszoetermeer.png');
 }
 
+img.ons-zoetermeer{
+  max-width: 75%;
+  height: auto;
+  margin: 35px;
+}
+
 #case-2 {
   background-image: url('../assets/imperium.png');
 }
@@ -728,7 +735,7 @@ blockquote, h6 {
   background-image: url('../assets/tavenu.png');
 }
 
-#case-4{
+#case-4 {
   background-image: url('../assets/robotica.png');
 }
 
@@ -737,33 +744,38 @@ blockquote, h6 {
   height: 350px;
   width: 100%;
   position: relative;
+  background-size: cover; 
+  top: -50px;
+}
+
+.header.ons-zoetermeer { 
+  background-image: url('../assets/header-case1.png');
+  background-position: center -50px;
+}
+
+.header.imperium {
+  background-image: url('../assets/header-case2.png');
+  background-position: center -50px;
+
 }
 
 .header.tavenu {
-  background-image: url('../assets/header-case1.png');
+  background-image: url('../assets/header-case3.png');
   background-position: center -300px;
-  background-size: cover;
+}
+
+.header.robotica {
+  background-image: url('../assets/header-case4.png');
 }
 
 .header h1 {
   font-family: 'Roboto';
-  font-size: 80px;
+  font-size: 60px;
   color: white;
   text-align: center;
   padding-top: 135px;
   position: relative;
   z-index: 2;
-}
-
-.header.robotica {
-  background-image: url('../assets/header-case2.png');
-  background-size: cover;
-}
-
-.header.imperium {
-  background-image: url('../assets/header-case3.png');
-  background-size: cover;
-  background-position: center -50px
 }
 
 .overlay {
